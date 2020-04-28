@@ -1,0 +1,12 @@
+- Music
+  - Listening
+    - Classical
+    - Star Wars
+    - Studio Ghibli
+  - Instruments
+    - Trombone
+    - Drums
+- Gaming
+- Programming
+  - Javascript
+  - C
