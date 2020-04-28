@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+- Music
+  - Listening
+    - Classical
+    - Star Wars
+    - Studio Ghibli
+  - Instruments
+    - Trombone
+    - Drums
+- Gaming
+- Programming
+  - Javascript
+  - C
